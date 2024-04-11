@@ -1,0 +1,29 @@
+agrupar personas por proceso por duracion de proceso por horas del dia
+
+
+apps a 20-180 minutos
+
+binarizacion
+
+diracopm 5-20 1 
+
+duracion 21-60 min
+
+duracion 60-120
+
+nuevas dimensioens
+
+dia de la semana: 1 a 7 estos valores tienen que binarizarse
+	
+apps que mas se usaron y excluir las apps que tengan mas de 180 minutos de uso y un tiempo mayor a 5 minutos
+
+
+obtener apps mas usadas(not sure about this one)
+
+EN GENERAL BINARIZAR TODOS LOS DATOS	W
+
+
+1. REDUCIR LOS DATOS A UNA MUESTRA DEL 10%
+2. VERIFICAR QUE NO HAYA DATOS MALOS O MAL IMPUTADOS
+3.
+
